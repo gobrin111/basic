@@ -1,0 +1,5 @@
+device_id,name,location,status
+projector_1,Projector,Room 101,Online
+display_1,Lobby Display,Main Lobby,Online
+speaker_1,Ceiling Speakers,Room 202,Maintenance
+camera_1,Conference Camera,Boardroom,Online
